@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-image:url("Designer.png");
+background-position: center;
+background-size: cover;
+}
+#d1{color:blueviolet
+
+
+
+}
+#i1{
+    height: 650px;
+    width: 650px;
+    border-radius: 50%;
+    margin-top: 350px;
+}
+h1{
+    font-size:30px;
+}
+#message{
+    background-color: black;
+    color: gold;
+    width:50%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 25%;
+    
+        font-family: "Luxurious Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 45px;
+      
+      
+}
+#benga{
+    width: 300px;
+    height:300px;
+    border-radius: 30%;
+}
+#dh{
+    font-size: 30px;
+    color: gold;
+    background-color: black;
+}
